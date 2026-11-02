@@ -59,3 +59,7 @@ Data is saved automatically via SwiftData — it persists between app launches.
 | `SugarTrackerApp.swift` | App entry point, SwiftData container setup |
 | `SugarEntry.swift` | Data model (@Model) |
 | `ContentView.swift` | Calendar UI + popover entry form |
+
+
+![Calendar view](screenshots/calendar-view.png)
+![Adding food](screenshots/add-food.png)
