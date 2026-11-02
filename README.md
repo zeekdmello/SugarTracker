@@ -60,6 +60,5 @@ Data is saved automatically via SwiftData — it persists between app launches.
 | `SugarEntry.swift` | Data model (@Model) |
 | `ContentView.swift` | Calendar UI + popover entry form |
 
-
-![Calendar view](screenshots/calendar-view.png)
-![Adding food](screenshots/add-food.png)
+![Calendar view](screenshots/screenshot1.png)
+![Adding food](screenshots/screenshot2.png)
